@@ -13,7 +13,6 @@
   visibility: hidden;
   pointer-events: none;
 
-  
   transition: opacity 500ms linear, visibility 500ms linear;
 }
 
